@@ -24,6 +24,16 @@ font-family:'Saira Extra Condensed',serif;
 
 
 }
+.h10 {
+font-family:'Saira Extra Condensed',serif;
+  font-size: 5rem;
+  color: black;
+  line-height: 3rem;
+  position: absolute;
+  background-color: lightgrey;
+
+
+}
 .icom {
 width: 1000px;
 height: 1000px;
